@@ -19,5 +19,8 @@
     "chromedriver": "^86.0.0",
     "jasmine": "^3.6.3",
     "wdio-chromedriver-service": "^6.0.4"
+  },
+  "dependencies": {
+    "ts-node": "^9.0.0"
   }
 }

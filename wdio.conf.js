@@ -21,7 +21,9 @@ exports.config = {
         // './test/specs/selectors-test.js'
         // './test/specs/findelements-test.js'
         // './test/specs/main-commands-test.js'
-        './test/specs/asos-test.js'
+        // './test/specs/asos-test.js'
+        //'./test/specs/landing-page-test.js'
+        './test/specs/make-order-e2e-test.js'
     ],
     // Patterns to exclude.
     exclude: [
